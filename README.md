@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pooja Panday</h1>
 <h3 align="center">A passionate full Stack developer and a part time yapper from India</h3>
-<img src="![octocat-1740508132110](https://github.com/user-attachments/assets/edc0ff08-03fc-49bc-bda0-3cfb85707b59)"
- width="300">
+<img src=![octocat-1740508132110](https://github.com/user-attachments/assets/2d899638-408a-47fc-911a-6a8487bc3e3e) />
+
 <br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandeypooja21&label=Profile%20views&color=0e75b6&style=flat" alt="pandeypooja21" /> </p>
