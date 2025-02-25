@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pooja Panday</h1>
 <h3 align="center">A passionate full Stack developer and a part time yapper from India</h3>
-<img src=![octocat-1740508132110](https://github.com/user-attachments/assets/2d899638-408a-47fc-911a-6a8487bc3e3e) />
+<img src=![alt_text](octocat-1740508132110.png >
 
 <br><br>
 
