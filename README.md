@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pooja Panday</h1>
+<h2 align="center">
+  <a target="_blank">
+  </a>
+  नमस्ते (Namaste), Welcome to the Profile!
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+  </a>
+</h2>
 <h3 align="center">A passionate full Stack developer and a part time yapper from India</h3>
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
