@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pooja Panday</h1>
 <h3 align="center">A passionate full Stack developer and a part time yapper from India</h3>
-<img src=![alt_text](octocat-1740508132110.png)>
-
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/pooja-panday/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/pooja-panday/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/pooja-panday/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/pooja-panday/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/pooja-panday?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
 <br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandeypooja21&label=Profile%20views&color=0e75b6&style=flat" alt="pandeypooja21" /> </p>
