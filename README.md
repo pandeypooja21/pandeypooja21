@@ -41,4 +41,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandeypooja21&show_icons=true&locale=en" alt="pandeypooja21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandeypooja21&" alt="pandeypooja21" /></p>
+ <h2 align="left">Support Me💰</h2>
+  <p align="center"> 
+    <a href="https://www.buymeacoffee.com/poojapandev" target="_blank">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" >
+    </a>
+  </p>
+
+#
+<div align="center">
+
+<a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img src="https://profile-counter.glitch.me/pandeypooja21/count.svg">
+</p>
+
 
