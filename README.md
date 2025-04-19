@@ -5,8 +5,9 @@
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Computer+Science+Engineer%F0%9F%92%BB;A+Cyber+Security+Researcher💻;Reverse+Engineering+Lover💙)](https://git.io/typing-svg)
+    <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Computer+Science+Engineer%F0%9F%92%BB;A+Problem+Creator+Sorry+Solver💻;Reverse+Engineering+Lover💙)](https://git.io/typing-svg)
+  
 </h2>
 <h3 align="center">A passionate full Stack developer and a part time yapper from India</h3>
 <h2 align="center">Leetcode Info<h2>  
@@ -38,6 +39,8 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=https://github.com/pandeypooja21& show_icons=true&locale=en&layout=compact" alt="pandeypooja21" /></p>
+
+### Show some ❤️ by starring ⭐ some of the repositories!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandeypooja21&show_icons=true&locale=en" alt="pandeypooja21" /></p>
 
