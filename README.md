@@ -5,6 +5,8 @@
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Computer+Science+Engineer%F0%9F%92%BB;A+Cyber+Security+Researcher💻;Reverse+Engineering+Lover💙)](https://git.io/typing-svg)
 </h2>
 <h3 align="center">A passionate full Stack developer and a part time yapper from India</h3>
 <h2 align="center">Leetcode Info<h2>  
