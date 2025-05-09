@@ -34,6 +34,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pooja-pandey21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pooja-pandey21/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/pooja-panday/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/pooja-panday/" height="30" width="40" /></a>
+<a href="mailto:poojapandey13325@gmail.com"><img alt="Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -50,13 +51,8 @@
     </a>
   </p>
  -->
- ## 🌐 **Connect With Me**
-<p align="left">
-<a href="https://linkedin.com/in/pooja-pandey21"><img alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-<a href="https://github.com/pandeypooja21"><img alt="GitHub" width="40px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/pooja-panday/"><img alt="LeetCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:poojapandey13325@gmail.com"><img alt="Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+
+
 
 ---
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
@@ -73,10 +69,8 @@
 </p>
 
 ----------------------
-<div align="center">
-
-<a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    
+<p align="center">
+  ![Visitor Badge](https://komarev.com/ghpvc/?username=pandeypooja21&style=flat-square&color=blue)
 </p>
 
 
