@@ -70,7 +70,7 @@
 
 ----------------------
 <p align="center">
-  ![Visitor Badge](https://komarev.com/ghpvc/?username=pandeypooja21&style=flat-square&color=blue)
+  <img src="https://komarev.com/ghpvc/?username=pandeypooja21&style=flat-square&color=blue" alt="Visitor Badge">
 </p>
 
 
