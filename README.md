@@ -7,7 +7,7 @@
   </a>
 <br><br>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+final+Computer+Science+Student%F0%9F%92%BB;A+Problem+Creator+Sorry+Solver💻;FullStack+Engineer+at+making💙)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+final+year+Computer+Science+Student%F0%9F%92%BB;A+Problem+Creator+Sorry+Solver💻;FullStack+Engineer+at+making💙)](https://git.io/typing-svg)
   
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
