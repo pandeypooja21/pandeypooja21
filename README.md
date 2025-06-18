@@ -13,14 +13,13 @@
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 </h2>
 
-<h3 align="center">I'm a full-stack developer by skill, a project manager by curiosity, and a human being by mistake.</h3>
-<h3 align="center"> More About ME</h3>
-<ul align="center">
-  <li>I build end-to-end stuff that (usually) doesn’t crash and (sometimes) gets deployed</li>
-  <li>From APIs that pretend to be smart</li>
-  <li>To UIs that scream "I tried"</li>
-</ul>
-  
+<h3 align="center">I'm a full-stack developer by skill, a project manager by curiosity, and a human being by mistake.build end-to-end stuff that (usually) doesn’t crash and (sometimes) gets deployed — from APIs that pretend to be smart to UIs that scream "I tried."
+Lately, I've been dabbling in project management, which is basically herding cats while juggling deadlines and drinking cold coffee out of warm anxiety.
+If you're here to figure out who I am, what I do, or why I’m still breathing — welcome to the existential circus.
+For a carefully filtered version of my life with just enough jargon to sound impressive, feel free to visit my LinkedIn. It’s where I pretend I have it all together.
+Until then, I’ll be here — pushing code, pulling all-nighters, and occasionally pushing my luck.</h3>
+
+
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/pooja-panday/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="jyot" height="200" width="200" /></a>
