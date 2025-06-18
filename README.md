@@ -12,12 +12,28 @@
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 </h2>
+  <h2 align="center">✨ What I Do?</h2>
 
-<h3 align="center">I'm a full-stack developer by skill, a project manager by curiosity, and a human being by mistake.build end-to-end stuff that (usually) doesn’t crash and (sometimes) gets deployed — from APIs that pretend to be smart to UIs that scream "I tried."
-Lately, I've been dabbling in project management, which is basically herding cats while juggling deadlines and drinking cold coffee out of warm anxiety.
-If you're here to figure out who I am, what I do, or why I’m still breathing — welcome to the existential circus.
-For a carefully filtered version of my life with just enough jargon to sound impressive, feel free to visit my LinkedIn. It’s where I pretend I have it all together.
-Until then, I’ll be here — pushing code, pulling all-nighters, and occasionally pushing my luck.</h3>
+<br>
+
+<p align="center">
+  I'm a <strong>full-stack developer</strong> by skill, a <strong>project manager</strong> by curiosity, and a <strong>human being</strong> by mistake.  
+  <br><br>
+  I build end-to-end stuff that <em>(usually)</em> doesn’t crash and <em>(sometimes)</em> gets deployed —  
+  from APIs that pretend to be smart to UIs that scream <code>"I tried."</code>
+  <br><br>
+  Lately, I've been dabbling in <strong>project management</strong>, which is basically herding cats while juggling deadlines  
+  and drinking cold coffee out of warm anxiety.
+  <br><br>
+  If you're here to figure out who I am, what I do, or why I’m still breathing —  
+  <strong>welcome to the existential circus.</strong>
+  <br><br>
+  For a carefully filtered version of my life with just enough jargon to sound impressive,  
+  feel free to visit my <a href="https://www.linkedin.com/in/pooja-pandey21/">LinkedIn</a>.  
+  It’s where I pretend I have it all together.
+  <br><br>
+  Until then, I’ll be here — pushing code, pulling all-nighters, and occasionally pushing my luck.
+</p>
 
 
 <h2 align="center">Leetcode Info<h2>  
