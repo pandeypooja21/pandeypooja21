@@ -12,7 +12,14 @@
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 </h2>
-<h3 align="center"><ul>I'm a full-stack developer by skill, a project manager by curiosity, and a human being by mistake.</ul></h3>
+
+<h3 align="center">I'm a full-stack developer by skill, a project manager by curiosity, and a human being by mistake.</h3>
+<h3 align="center"> More About ME</h3>
+  <h4 align="center><ul>
+    <li> I build end-to-end stuff that (usually) doesn’t crash and (sometimes) gets deployed — from APIs that pretend to be smart to UIs that scream "I tried." </li>
+  </ul>
+  </h4>
+  
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/pooja-panday/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="jyot" height="200" width="200" /></a>
