@@ -15,10 +15,11 @@
 
 <h3 align="center">I'm a full-stack developer by skill, a project manager by curiosity, and a human being by mistake.</h3>
 <h3 align="center"> More About ME</h3>
-  <h4 align="center><ul>
-    <li> I build end-to-end stuff that (usually) doesn’t crash and (sometimes) gets deployed — from APIs that pretend to be smart to UIs that scream "I tried." </li>
-  </ul>
-  </h4>
+<ul align="center">
+  <li>I build end-to-end stuff that (usually) doesn’t crash and (sometimes) gets deployed</li>
+  <li>From APIs that pretend to be smart</li>
+  <li>To UIs that scream "I tried"</li>
+</ul>
   
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
